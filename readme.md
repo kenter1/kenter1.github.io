@@ -8,11 +8,11 @@ Interested in Game Developement, Virtual Reality, Augmented Reality and Software
 
 ## Projects
 
-Castle Defence Wave VR 
+Castle Defence Wave VR - You protect a castle with your bow and towers you purchase. Different enemies require different strategies, and requiring you to place towers in optimal locations. 
 
   [![VR Castle Defence](https://img.youtube.com/vi/qs9IigFndK0/0.jpg)](https://www.youtube.com/watch?v=qs9IigFndK0)
 
-BattleBots VR:
+BattleBots VR - A Virtual Reality game inspired by the Battlebots shows. A multiplayer game with vehicle body deformations, physic impacts and bot variants with different speed, handling and armor.
 
   Multiplayer Showcase
   
