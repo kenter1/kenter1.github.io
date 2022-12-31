@@ -4,25 +4,27 @@ Hi, my name is Mark Alano and I'm a computer science master's student at Univers
 
 ## About Me
 
-[Add a short bio about yourself, including any relevant experience or skills you have in game development.]
+Interested in Game Developement, Virtual Reality, Augmented Reality and Software Development. I enjoy playing indie video games, first persion view rc cars and developing games in my spare time. 
 
 ## Projects
 
 Castle Defence Wave VR 
-  
-  https://www.youtube.com/watch?v=qs9IigFndK0
+
+  [![VR Castle Defence](https://img.youtube.com/vi/qs9IigFndK0/0.jpg)](https://www.youtube.com/watch?v=qs9IigFndK0)
 
 BattleBots VR:
 
   Multiplayer Showcase
+  [![Multiplayer Showcase](https://img.youtube.com/vi/edE5CJS_Tfo/0.jpg)](https://www.youtube.com/watch?v=edE5CJS_Tfo)
   https://www.youtube.com/watch?v=edE5CJS_Tfo
 
   Physics
-  https://youtu.be/6CyhPZvYogQ?t=156
+  [![Multiplayer Showcase](https://img.youtube.com/vi/6CyhPZvYogQ/0.jpg)](https://www.youtube.com/watch?v=6CyhPZvYogQ?t=156)
 
 ## Skills
 
-- [List your technical skills, such as programming languages or game engines you are familiar with.]
+- Game Engines: Unity, Unreal Engine
+- Programming Languages: C#, Python, C++ and Unreal Blueprints, Java
 
 Thank you for visiting my page!
 
