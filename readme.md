@@ -16,7 +16,6 @@ BattleBots VR:
 
   Multiplayer Showcase
   [![Multiplayer Showcase](https://img.youtube.com/vi/edE5CJS_Tfo/0.jpg)](https://www.youtube.com/watch?v=edE5CJS_Tfo)
-  https://www.youtube.com/watch?v=edE5CJS_Tfo
 
   Physics
   [![Multiplayer Showcase](https://img.youtube.com/vi/6CyhPZvYogQ/0.jpg)](https://www.youtube.com/watch?v=6CyhPZvYogQ?t=156)
