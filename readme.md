@@ -12,7 +12,7 @@ Castle Defence Wave VR - You protect a castle with your bow and towers you purch
 
   [![VR Castle Defence](https://img.youtube.com/vi/qs9IigFndK0/0.jpg)](https://www.youtube.com/watch?v=qs9IigFndK0)
 
-BattleBots VR - A Virtual Reality game inspired by the Battlebots shows. A multiplayer game with vehicle body deformations, physic impacts and bot variants with different speed, handling and armor.
+BattleBots VR - A Virtual Reality game inspired by the Battlebots show. A multiplayer game with vehicle body deformations, physic impacts and bot variants with different speed, handling and armor.
 
   Multiplayer Showcase
   
