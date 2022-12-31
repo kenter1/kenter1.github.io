@@ -16,3 +16,5 @@ Hi, my name is [Your Name] and I'm a computer science master's student at [Unive
 
 Thank you for visiting my page!
 
+markdown: kramdown
+theme: minima
