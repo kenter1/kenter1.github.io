@@ -1,6 +1,6 @@
 # Welcome to my GitHub page!
 
-Hi, my name is [Your Name] and I'm a computer science master's student at [University Name]. I'm passionate about game development and have been working on various game projects throughout my studies.
+Hi, my name is Mark Alano and I'm a computer science master's student at University Of Central Florida. I'm passionate about game development and have been working on various game projects throughout my studies.
 
 ## About Me
 
@@ -8,7 +8,17 @@ Hi, my name is [Your Name] and I'm a computer science master's student at [Unive
 
 ## Projects
 
-[List the game projects you have worked on, including a brief description of each project and a link to any relevant repositories or live demos.]
+Castle Defence Wave VR 
+  
+  https://www.youtube.com/watch?v=qs9IigFndK0
+
+BattleBots VR:
+
+  Multiplayer Showcase
+  https://www.youtube.com/watch?v=edE5CJS_Tfo
+
+  Physics
+  https://youtu.be/6CyhPZvYogQ?t=156
 
 ## Skills
 
